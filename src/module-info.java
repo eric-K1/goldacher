@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author eric
+ *
+ */
+module goldacher {
+}
