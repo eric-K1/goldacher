@@ -22,7 +22,8 @@ public class ArithIter implements Iterator<BigInteger>{
 	@Override
 	public BigInteger next() {
 		// TODO Auto-generated method stub
-		return curr.add(step);
+		curr = curr.add(step);
+		return curr;
 	}
 	
 }
