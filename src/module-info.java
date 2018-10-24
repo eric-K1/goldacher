@@ -5,5 +5,3 @@
  * @author eric
  *
  */
-module goldacher {
-}
